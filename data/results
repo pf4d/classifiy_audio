@@ -1,0 +1,40 @@
+
+
+	Bayes Classifier:
+
+1: music (originally music)
+2: music (originally music)
+3: music (originally music)
+4: music (originally music)
+5: music (originally music)
+6: music (originally music)
+7: speech (originally music)
+8: speech (originally speech)
+9: speech (originally speech)
+10: speech (originally speech)
+11: speech (originally speech)
+12: speech (originally speech)
+13: speech (originally speech)
+14: speech (originally speech)
+
+
+	Tree Classifier:
+
+1: music (originally music)
+2: music (originally music)
+3: music (originally music)
+4: music (originally music)
+5: music (originally music)
+6: music (originally music)
+7: speech (originally music)
+8: music (originally speech)
+9: speech (originally speech)
+10: music (originally speech)
+11: music (originally speech)
+12: music (originally speech)
+13: speech (originally speech)
+14: music (originally speech)
+
+Classification accuracies:
+	bayes: ~92%
+	tree: ~57%
